@@ -1,5 +1,26 @@
-buckabuckaboo
-=============
+MouseTrack
+==========
+
+About
+-----
+
+MouseTrack is a fork for Denis Papathanasiou's buckabuckaboo library, created by Daniel Gacitua. Additional to mouse movement tracking functions present in buckabuckaboo, MouseTrack can track mouse clicks and also stores the Unix Timestamp of all tracked actions. All of this powered by browser-based Javascript methods.
+
+Installation
+------------
+
+See original README below. All relevant files have been renamed from 'buckabuckaboo' to 'mousetrack'.
+
+
+License
+-------
+
+MIT
+http://opensource.org/licenses/MIT
+
+
+buckabuckaboo (original README)
+===============================
 
 About
 -----
